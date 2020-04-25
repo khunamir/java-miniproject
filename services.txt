@@ -1,0 +1,8 @@
+101#Crack Screen Repair#10.00
+102#Overcharged Battery Replacement#50.00
+103#Camera Repair#30.00
+104#Broken Buttons Replacement#10.00
+105#Speaker or Mic Replacement#15.00
+106#Unresponsive Touchscreen Repair#30.00
+107#Unresponsive Fingerprint Scanner Repair#15.00
+108#Water Damage Repair#10.00
